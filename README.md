@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://github.com/AgroPulse-Team/AgroPulse-Team/blob/main/image1.jpg" width="50%" alt="AgroPulse Banner">
+  <img src="https://github.com/AgroPulse-Team/AgroPulse-Team/blob/main/image1.jpg" width="75%" alt="AgroPulse Banner">
   <h1>AgroPulse: Smart Vegetable Price Viewer</h1>
   <p><b>Empowering farmers and consumers with real-time market data.</b></p>
 </div>
