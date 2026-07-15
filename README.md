@@ -50,15 +50,13 @@ We are <b>Group 14</b>, students of the Department of BioSystems Technology, Fac
 
 <h2 id="contact-us">📬 Contact Us</h2>
 <p align="left">
- <a href="https://www.linkedin.com/in/kasun-d-ekanayaka-4977b4340/" target="blank"><img align="center"
-      src="https://img.icons8.com/fluency/48/000000/linkedin.png"
-      alt="kasun-d-ekanayaka" height="45" width="45" /></a>
+ <a href="mailto:agropulse25@gmail.com" target="blank"><img align="center"
+      src="https://img.icons8.com/fluency/48/000000/apple-mail.png"
+      alt="agropulse" height="45" width="45" /></a>
  <a href="https://www.instagram.com/kasun_dilrukx?igsh=dHA5MXc5dWpjejB4" target="blank"><img align="center"
       src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg"
       alt="kasun-d-ekanayaka" height="35" width="40" /></a>
-  <a href="mailto:kdilruksha2004@gmail.com" target="blank"><img align="center"
-      src="https://img.icons8.com/fluency/48/000000/apple-mail.png"
-      alt="kasun-d-ekanayaka" height="45" width="45" /></a> 
+ 
 
 </p>
 For project inquiries or collaborations, please feel free to reach out to our team at the Department of BioSystems Technology, KDU.
