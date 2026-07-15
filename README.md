@@ -63,8 +63,9 @@ We are <b>Group 14</b>, students of the Department of BioSystems Technology, Fac
 
 </p>
 For project inquiries or collaborations, please feel free to reach out to our team at the Department of BioSystems Technology, KDU.
+
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/5679180/79618120-0daffb80-80be-11ea-819e-d2b0fa904d07.gif" width="30px">
+  <img src="https://user-images.githubusercontent.com/5679180/79618120-0daffb80-80be-11ea-819e-d2b0fa904d07.gif" width="40px">
   <br>
 <div align="center">
   <br>
