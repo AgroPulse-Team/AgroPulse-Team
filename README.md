@@ -26,7 +26,7 @@ Our mission is to provide an accessible digital platform that displays daily who
   
 This project leverages modern web development tools to provide a seamless user experience:
 
-                      | Component | Technology |
+  | Component | Technology |
                       | :--- | :--- |
                       | **Frontend/Backend** | HTML, CSS, JavaScript, PHP |
                       | **Database** | MySQL |
