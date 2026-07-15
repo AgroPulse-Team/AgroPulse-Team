@@ -1,3 +1,4 @@
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 <div align="center">
   <img src="https://github.com/AgroPulse-Team/AgroPulse-Team/blob/main/image1.jpg" width="60%" alt="AgroPulse Banner">
   <h1>AgroPulse: Smart Vegetable Price Viewer</h1>
