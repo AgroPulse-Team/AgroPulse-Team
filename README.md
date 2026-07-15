@@ -21,6 +21,8 @@ Our mission is to provide an accessible digital platform that displays daily who
 ---
 
 <h2 id="tech-stack">🛠 Tech Stack</h2>
+<p align="center">
+<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="100">
 This project leverages modern web development tools to provide a seamless user experience:
 
 | Component | Technology |
