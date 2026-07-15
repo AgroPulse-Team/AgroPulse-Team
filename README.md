@@ -63,6 +63,7 @@ We are <b>Group 14</b>, students of the Department of BioSystems Technology, Fac
 
 </p>
 For project inquiries or collaborations, please feel free to reach out to our team at the Department of BioSystems Technology, KDU.
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Thanks+For+Visiting!!&center=true&color="FF0000")](https://github.com/tanyagupta0201)
 
 <div align="center">
   <br>
