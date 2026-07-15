@@ -53,9 +53,9 @@ We are <b>Group 14</b>, students of the Department of BioSystems Technology, Fac
  <a href="mailto:agropulse25@gmail.com" target="blank"><img align="center"
       src="https://img.icons8.com/fluency/48/000000/apple-mail.png"
       alt="agropulse" height="45" width="45" /></a>
- <a href="https://www.instagram.com/kasun_dilrukx?igsh=dHA5MXc5dWpjejB4" target="blank"><img align="center"
+ <a href="https://www.instagram.com/agro__pulse?igsh=Z2M0eXlpODJ3cTE=" target="blank"><img align="center"
       src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg"
-      alt="kasun-d-ekanayaka" height="35" width="40" /></a>
+      alt="agropilse" height="35" width="40" /></a>
  
 
 </p>
