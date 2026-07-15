@@ -8,15 +8,15 @@
 ---
 
 <h2 id="about-project">📢 About AgroPulse</h2>
-AgroPulse is a web-based platform designed to bridge the gap between farmers and consumers in Sri Lanka. Farmers and customers often struggle to access reliable, daily-updated vegetable prices, leading to market inefficiencies and unfair pricing[cite: 5]. 
+AgroPulse is a web-based platform designed to bridge the gap between farmers and consumers in Sri Lanka. Farmers and customers often struggle to access reliable, daily-updated vegetable prices, leading to market inefficiencies and unfair pricing. 
 
-Our mission is to provide an accessible digital platform that displays daily wholesale vegetable prices, helping farmers optimize their sales and consumers make informed purchasing decisions[cite: 5].
+Our mission is to provide an accessible digital platform that displays daily wholesale vegetable prices, helping farmers optimize their sales and consumers make informed purchasing decisions.
 
 <b>Key Features:</b>
-*   <b>Real-time Price Updates:</b> Daily updated wholesale vegetable price lists[cite: 5].
-*   <b>Admin Panel:</b> A dedicated interface to update prices easily and efficiently[cite: 5].
-*   <b>Multi-language Support:</b> Accessible in Sinhala, Tamil, and English[cite: 5].
-*   <b>Mobile Responsive:</b> Optimized for rural users with mobile accessibility[cite: 5].
+*   <b>Real-time Price Updates:</b> Daily updated wholesale vegetable price lists.
+*   <b>Admin Panel:</b> A dedicated interface to update prices easily and efficiently.
+*   <b>Multi-language Support:</b> Accessible in Sinhala, Tamil, and English.
+*   <b>Mobile Responsive:</b> Optimized for rural users with mobile accessibility.
 
 ---
 
