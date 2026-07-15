@@ -55,3 +55,4 @@ For project inquiries or collaborations, please feel free to reach out to our te
   <br>
   <p><i>AgroPulse - Making market transparency accessible to everyone.</i></p>
 </div>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
