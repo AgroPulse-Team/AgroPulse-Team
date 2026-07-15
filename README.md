@@ -1,4 +1,5 @@
 <div align="center">
+  <img src="image1.png" width="100%" alt="AgroPulse Banner">
   <h1>AgroPulse: Smart Vegetable Price Viewer</h1>
   <p><b>Empowering farmers and consumers with real-time market data.</b></p>
 </div>
